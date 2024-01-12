@@ -51,6 +51,6 @@ Boa sorte!
 ## Instruções de Submissão
 Criar o seu proprio repositorio e enviar para o email:
 
-Linkedin: Aristides Chalo
+Linkedin: Antonio Miguel
 
 # E-mail: gongamiguel@gmail.com

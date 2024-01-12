@@ -53,4 +53,4 @@ Criar o seu proprio repositorio e enviar para o email:
 
 Linkedin: Aristides Chalo
 
-# E-mail: aristides.chalo@statementmc.com
+# E-mail: gongamiguel@gmail.com
